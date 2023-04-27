@@ -1,10 +1,11 @@
 # React Scheduling
--[ ] render cols and rows
--[ ] render time as rows and single col as day
--[ ] click event which adds a box for a given time
--[ ] render days of the week as cols
--[ ] render week grid
--[ ] render month grid
+
+- [ ] render cols and rows
+- [ ] render time as rows and single col as day
+- [ ] click event which adds a box for a given time
+- [ ] render days of the week as cols
+- [ ] render week grid
+- [ ] render month grid
 
 ![The Remix Indie Stack](https://repository-images.githubusercontent.com/465928257/a241fa49-bd4d-485a-a2a5-5cb8e4ee0abf)
 
